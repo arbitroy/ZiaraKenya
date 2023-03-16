@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464587792411",
+    "project_id": "ziarakenya-132e7",
+    "storage_bucket": "ziarakenya-132e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464587792411:android:0343bf3964673ee1b958be",
+        "android_client_info": {
+          "package_name": "dev.ndauwa.ziarakenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464587792411-0r41uukni2gctrvdm02437g9rst4644g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oAERr2EffvJeIPIMXyb6fHV5MHWNjTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464587792411-0r41uukni2gctrvdm02437g9rst4644g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
